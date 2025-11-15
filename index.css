@@ -242,7 +242,8 @@ span {
 
 .img6 {
          background-image: url(img/c.jpg);
-         background-size: cover;
+         background-size: contain;
+         background-repeat: repeat;
 }
 
 .img7 {
